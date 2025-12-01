@@ -1,4 +1,4 @@
-# CHARACTERISTICS-OF-PN-JUNCTION-DIODE
+<img width="576" height="539" alt="image" src="https://github.com/user-attachments/assets/f3af5072-9be0-4eb8-b7b5-35d623eb0946" /><img width="576" height="539" alt="image" src="https://github.com/user-attachments/assets/c485ac24-b813-448a-a2c5-7981264cb58e" /># CHARACTERISTICS-OF-PN-JUNCTION-DIODE
 AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
@@ -36,11 +36,16 @@ ii. Reverse bias condition
 Note the corresponding current reading in Ammeter.
 3. Repeat step-2 by increasing the voltage in steps of 1V, till 20V.
 4. Plot a graph taking the voltage (V) on X-axis and current (I) on Y-axis
-Tabulation :
-<img width="538" height="403" alt="image" src="https://github.com/user-attachments/assets/a84e65bb-feef-4662-ba01-38d4302f06fe" />
+Tabulation:
+<img width="576" height="539" alt="image" src="https://github.com/user-attachments/assets/108a450c-81bd-42fa-b1a0-4b92bc449362" />
+<img width="587" height="546" alt="image" src="https://github.com/user-attachments/assets/0763603d-5a80-4e37-ba5d-a6bc0d63711f" />
+
+
 
 Model Graph:
-<img width="436" height="280" alt="image" src="https://github.com/user-attachments/assets/35837165-c967-457c-aadf-efd2dfd31abc" />
+<img width="436" height="280" alt="image" src="https://github.com/user-attachments/assets/2b5b8cc8-26e6-4fd7-8d32-fecc6cede38f" />
+
+
 
 
 Result:
